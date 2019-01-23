@@ -1,4 +1,4 @@
- Git et GitHub
+Titre du cours: Git et GitHub
 Activité Partie 2
 
-https://github.com/yvesmarz/Exercice_Activite-git.git
+Url: https://github.com/yvesmarz/Exercice_Activite-git.git
