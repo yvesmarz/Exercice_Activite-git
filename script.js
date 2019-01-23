@@ -1,1 +1,2 @@
-alert("Bienvenue sur mon exercice")
+var welcome = "Bienvenue sur mon exercice"
+alert(welcome)
